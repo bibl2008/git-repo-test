@@ -1,7 +1,4 @@
 print("Hello world")
 print("Hello")
-<<<<<<< HEAD
 print("Hello after Goodbye")
-=======
-print("bye")
->>>>>>> origin/master
+
